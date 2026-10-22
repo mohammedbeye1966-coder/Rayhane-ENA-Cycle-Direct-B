@@ -1,0 +1,17 @@
+{
+  "name": "Rayhane — Préparation ENA Sénégal",
+  "short_name": "Rayhane",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3faff",
+  "theme_color": "#65b9ec",
+  "description": "Application personnelle de révision ENA Sénégal — Cycle Direct B",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

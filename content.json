@@ -1,0 +1,2360 @@
+{
+  "appName": "Rayhane",
+  "exam": "ENA Sénégal — Cycle Direct B",
+  "themes": [
+    {
+      "title": "Souveraineté alimentaire",
+      "intro": "La souveraineté alimentaire désigne la capacité d’un pays à définir ses politiques agricoles et alimentaires, à produire une part suffisante de ce qu’il consomme et à garantir à sa population un accès régulier à une alimentation saine, nutritive et abordable. Elle ne signifie pas l’autarcie : les échanges commerciaux restent utiles, mais ils ne doivent pas rendre le pays excessivement vulnérable aux chocs extérieurs.",
+      "enjeux": "Au Sénégal, la question concerne notamment la dépendance aux importations de riz, de blé et d’huiles, la productivité des exploitations familiales, la maîtrise de l’eau, le coût des intrants, les pertes après récolte et l’accès aux marchés. La croissance démographique et l’urbanisation augmentent la demande alimentaire. Les sécheresses, les inondations et la volatilité des prix mondiaux compliquent la planification.",
+      "axes": [
+        [
+          "Renforcer la production locale",
+          "Investir dans l’irrigation, les semences adaptées, la mécanisation appropriée, la recherche agronomique et le conseil aux producteurs. Le soutien doit tenir compte des réalités des petits exploitants et éviter que les subventions profitent surtout aux acteurs les mieux équipés."
+        ],
+        [
+          "Structurer les chaînes de valeur",
+          "Développer le stockage, la transformation, le transport, la conservation et les contrats entre producteurs, transformateurs et distributeurs. Une hausse de la production ne suffit pas si les récoltes se perdent ou si les producteurs vendent à perte."
+        ],
+        [
+          "Protéger les ressources",
+          "Améliorer la gestion des sols et de l’eau, favoriser l’agroécologie lorsque les conditions le permettent, restaurer les terres dégradées et adapter les cultures aux risques climatiques."
+        ],
+        [
+          "Rendre les politiques inclusives",
+          "Faciliter l’accès des femmes et des jeunes à la terre, au financement, à la formation et aux équipements. Les achats institutionnels auprès des producteurs locaux peuvent créer des débouchés, sous réserve de qualité, de régularité et de prix raisonnables."
+        ]
+      ],
+      "limites": "Les politiques de souveraineté alimentaire peuvent échouer si elles se limitent à annoncer des objectifs de production sans régler les problèmes de foncier, d’eau, de financement, de logistique et de gouvernance. Une protection commerciale excessive peut aussi renchérir l’alimentation pour les ménages pauvres. Il faut donc arbitrer entre soutien aux producteurs, pouvoir d’achat des consommateurs et stabilité des approvisionnements.",
+      "cas": "Exemple de raisonnement : pour réduire la dépendance au riz importé, une stratégie cohérente associerait amélioration des rendements, maîtrise de l’eau, qualité du riz local, stockage, transformation, information des consommateurs et achats publics. Les résultats devraient être mesurés par la productivité, les revenus agricoles, les prix, les pertes après récolte et la part de la demande couverte durablement par la production nationale.",
+      "conclusion": "La souveraineté alimentaire est un objectif de résilience et de dignité économique. Elle suppose une politique agricole stable, des investissements productifs, des débouchés fiables et une coordination entre État, collectivités, producteurs, chercheurs et secteur privé.",
+      "definitions": [
+        "Définition centrale : La souveraineté alimentaire désigne la capacité d’un pays à définir ses politiques agricoles et alimentaires, à produire une part suffisante de ce qu’il consomme et à garantir à sa population un accès régulier à une alimentation saine, nutritive et abordable.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « souveraineté alimentaire » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Souveraineté alimentaire » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de souveraineté alimentaire en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Environnement et développement durable",
+      "intro": "Le développement durable vise à répondre aux besoins présents sans compromettre la capacité des générations futures à satisfaire les leurs. Il met en relation trois dimensions : économique, sociale et environnementale. L’environnement n’est donc pas un secteur isolé ; il conditionne la santé, l’agriculture, l’emploi, l’habitat, l’énergie et la compétitivité.",
+      "enjeux": "Au Sénégal, les enjeux incluent l’érosion côtière, la gestion des déchets, la pollution de l’air et de l’eau, la dégradation des terres, la pression sur les ressources halieutiques et l’urbanisation. Les coûts environnementaux touchent souvent davantage les populations vulnérables, qui disposent de moins de moyens pour se protéger.",
+      "axes": [
+        [
+          "Prévenir plutôt que réparer",
+          "Intégrer les études d’impact et les risques environnementaux dès la conception des projets. Appliquer le principe pollueur-payeur de façon juste, renforcer les contrôles et publier les informations utiles au public."
+        ],
+        [
+          "Développer l’économie circulaire",
+          "Réduire les déchets à la source, encourager le réemploi, améliorer le tri et structurer des filières de recyclage. Les solutions doivent inclure les travailleurs informels sans détruire brutalement leurs moyens de subsistance."
+        ],
+        [
+          "Protéger les écosystèmes",
+          "Préserver les mangroves, les forêts, les zones humides et les ressources marines. Ces écosystèmes protègent les côtes, soutiennent la biodiversité et contribuent aux revenus des communautés."
+        ],
+        [
+          "Financer la transition",
+          "Mobiliser le budget public, les financements climatiques, les partenariats privés et des mécanismes de suivi. Les investissements verts doivent être évalués selon leur efficacité, leur coût et leurs effets sociaux."
+        ]
+      ],
+      "limites": "Les normes environnementales peuvent sembler coûteuses à court terme, surtout pour les petites entreprises. À l’inverse, l’absence de réglementation entraîne des coûts sanitaires et économiques différés. Une transition crédible doit prévoir des délais réalistes, de l’accompagnement technique, des contrôles équitables et des indicateurs publics.",
+      "cas": "Une politique municipale de gestion des déchets pourrait combiner collecte régulière, points de tri, compostage des déchets organiques, recyclage, sensibilisation et sanctions proportionnées. Les indicateurs seraient la couverture de collecte, les tonnages valorisés, les dépôts sauvages, les emplois créés et la satisfaction des habitants.",
+      "conclusion": "Le développement durable requiert une action coordonnée et mesurable. Il ne s’agit pas d’opposer croissance et environnement, mais d’orienter les investissements vers une prospérité moins polluante, plus inclusive et plus résiliente.",
+      "definitions": [
+        "Définition centrale : Le développement durable vise à répondre aux besoins présents sans compromettre la capacité des générations futures à satisfaire les leurs.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « environnement et développement durable » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Environnement et développement durable » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de environnement et développement durable en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Adaptation aux changements climatiques",
+      "intro": "L’adaptation aux changements climatiques regroupe les ajustements des systèmes humains et naturels aux effets actuels ou attendus du climat. Elle se distingue de l’atténuation, qui vise à réduire les émissions de gaz à effet de serre. Les deux sont complémentaires : même avec une baisse des émissions, certains impacts nécessitent déjà une préparation.",
+      "enjeux": "Le Sénégal est exposé à plusieurs risques : chaleur extrême, irrégularité des pluies, sécheresses, inondations, érosion côtière et salinisation des terres. Les effets varient selon les territoires et les activités. L’agriculture, la pêche, l’habitat, la santé publique et les infrastructures sont concernés.",
+      "axes": [
+        [
+          "Évaluer les risques localement",
+          "Utiliser les données météorologiques, les cartes de vulnérabilité et les connaissances des communautés. Les plans doivent distinguer exposition, sensibilité et capacité d’adaptation, plutôt que proposer une réponse uniforme à tous les territoires."
+        ],
+        [
+          "Adapter l’agriculture et l’eau",
+          "Promouvoir des variétés résistantes, diversifier les cultures, améliorer l’irrigation, restaurer les sols et renforcer les systèmes d’alerte. La gestion de l’eau doit concilier usages domestiques, agricoles, industriels et préservation des écosystèmes."
+        ],
+        [
+          "Rendre les villes plus résilientes",
+          "Entretenir les canaux de drainage, éviter les constructions dans les zones à risque, améliorer l’assainissement et protéger les infrastructures essentielles. Les solutions fondées sur la nature peuvent compléter les ouvrages techniques."
+        ],
+        [
+          "Préparer les populations",
+          "Développer les alertes précoces, les plans d’évacuation, les services de santé sensibles au climat et des mécanismes de financement rapide après catastrophe. Les collectivités doivent être associées à la préparation."
+        ]
+      ],
+      "limites": "L’adaptation peut être coûteuse et certaines mesures déplacent les risques vers d’autres zones. Une digue mal conçue, par exemple, peut modifier l’érosion côtière. Les projets doivent donc être évalués sur le long terme, avec consultation des populations et entretien financé après construction.",
+      "cas": "Face aux inondations urbaines, une réponse intégrée associerait cartographie des zones inondables, curage et entretien des ouvrages, contrôle de l’occupation du sol, solutions de drainage, relogement digne lorsque nécessaire et système d’alerte. Les résultats seraient suivis par les pertes humaines, les ménages touchés, les délais d’intervention et la continuité des services.",
+      "conclusion": "L’adaptation climatique est une politique de développement et de protection sociale. Son efficacité dépend de données fiables, de la planification territoriale, du financement durable et de la participation des communautés.",
+      "definitions": [
+        "Définition centrale : L’adaptation aux changements climatiques regroupe les ajustements des systèmes humains et naturels aux effets actuels ou attendus du climat.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « adaptation aux changements climatiques » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Adaptation aux changements climatiques » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de adaptation aux changements climatiques en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Intégration africaine",
+      "intro": "L’intégration africaine cherche à rapprocher les économies, les institutions et les peuples du continent afin d’élargir les marchés, de faciliter la mobilité, de renforcer la capacité de négociation collective et de réduire les coûts liés à la fragmentation. Elle se construit à plusieurs niveaux : régional, continental et sectoriel.",
+      "enjeux": "Les économies africaines commercent encore souvent davantage avec des partenaires extérieurs qu’entre elles. Les obstacles comprennent les infrastructures insuffisantes, les formalités douanières, les barrières non tarifaires, les différences de normes et les tensions politiques. Le Sénégal participe à des cadres régionaux comme la CEDEAO et l’UEMOA, ainsi qu’à la Zone de libre-échange continentale africaine (ZLECAf).",
+      "axes": [
+        [
+          "Faciliter les échanges",
+          "Simplifier les procédures douanières, numériser les documents, harmoniser les normes et lutter contre les tracasseries. La facilitation doit s’accompagner de contrôles efficaces pour la sécurité, la santé et la fiscalité."
+        ],
+        [
+          "Développer les infrastructures",
+          "Coordonner les corridors routiers, ferroviaires, portuaires, énergétiques et numériques. Les infrastructures transfrontalières demandent des accords sur le financement, l’entretien et la répartition des bénéfices."
+        ],
+        [
+          "Construire des chaînes de valeur régionales",
+          "Encourager la transformation locale de produits agricoles, miniers et industriels, et favoriser les fournisseurs régionaux. Cela peut créer des emplois, mais exige des compétences, de l’énergie fiable et des normes de qualité."
+        ],
+        [
+          "Renforcer les institutions",
+          "Faire respecter les engagements, régler les différends et associer les entreprises, les jeunes, les femmes et la société civile. L’intégration doit produire des avantages visibles pour les populations."
+        ]
+      ],
+      "limites": "Les gains ne sont pas automatiquement répartis de façon égale. Certains secteurs peuvent subir une concurrence accrue et certains pays peuvent craindre de perdre des recettes douanières. Des mécanismes d’ajustement, de formation et de compensation peuvent faciliter la transition.",
+      "cas": "Pour améliorer le commerce régional de produits transformés, le Sénégal pourrait combiner simplification des formalités, reconnaissance des normes, information des entreprises sur les marchés voisins et soutien à la logistique. Les indicateurs incluraient les délais aux frontières, le coût du transport, le nombre d’entreprises exportatrices et la part des produits transformés.",
+      "conclusion": "L’intégration africaine n’est pas seulement un projet diplomatique : elle doit devenir un instrument de production, d’emploi et de souveraineté économique. Sa réussite dépend de la mise en œuvre concrète des engagements.",
+      "definitions": [
+        "Définition centrale : L’intégration africaine cherche à rapprocher les économies, les institutions et les peuples du continent afin d’élargir les marchés, de faciliter la mobilité, de renforcer la capacité de négociation collective et de réduire les coûts liés à la fragmentation.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « intégration africaine » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Intégration africaine » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de intégration africaine en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Genre et développement",
+      "intro": "L’approche genre analyse les rôles, les possibilités et les rapports de pouvoir entre les femmes et les hommes, ainsi que les obstacles qui affectent leur accès aux ressources, aux droits et aux décisions. L’égalité de genre est à la fois une exigence de justice et un facteur de développement, car l’exclusion d’une partie de la population réduit le potentiel économique et social.",
+      "enjeux": "Les inégalités peuvent se manifester dans l’accès à la terre, au crédit, à l’emploi formel, à la formation, aux postes de décision et aux services de santé. Le travail domestique et de soin non rémunéré pèse souvent davantage sur les femmes. Les normes sociales, les contraintes de mobilité et les violences peuvent limiter les choix individuels.",
+      "axes": [
+        [
+          "Garantir les droits et l’accès aux ressources",
+          "Assurer l’application des textes, l’accès à la justice, à l’état civil, à la propriété et aux mécanismes de financement. Les dispositifs doivent être accessibles dans les territoires et compréhensibles par les bénéficiaires."
+        ],
+        [
+          "Investir dans l’éducation et les compétences",
+          "Lutter contre les abandons scolaires, soutenir l’orientation vers les filières techniques et numériques et faciliter la formation continue. L’information seule ne suffit pas si les contraintes de transport, de sécurité ou de revenus persistent."
+        ],
+        [
+          "Promouvoir l’autonomie économique",
+          "Améliorer l’accès aux marchés, à la commande publique, aux réseaux professionnels et aux outils de production. Les programmes d’entrepreneuriat doivent inclure accompagnement, gestion, financement et suivi."
+        ],
+        [
+          "Transformer les institutions",
+          "Prévenir les violences, améliorer les mécanismes de plainte, produire des statistiques ventilées par sexe et intégrer le genre dans la budgétisation et l’évaluation des politiques publiques."
+        ]
+      ],
+      "limites": "Les quotas et programmes ciblés peuvent améliorer la représentation mais ne garantissent pas, à eux seuls, un changement réel du pouvoir ou des conditions de vie. Il faut éviter les approches symboliques, les stéréotypes et les projets qui imposent une charge supplémentaire aux femmes sans redistribuer les responsabilités.",
+      "cas": "Un programme d’accès des femmes entrepreneures aux marchés publics devrait publier des appels d’offres accessibles, proposer une formation sur les procédures, faciliter l’accès au financement et suivre les contrats effectivement obtenus. Les indicateurs seraient le nombre de candidatures, le taux de succès, la valeur des marchés et la pérennité des entreprises.",
+      "conclusion": "Le développement inclusif exige que l’égalité soit intégrée dans les budgets, les services et les mécanismes de décision. Les résultats doivent être mesurés par les droits effectifs, les opportunités et la réduction des écarts.",
+      "definitions": [
+        "Définition centrale : L’approche genre analyse les rôles, les possibilités et les rapports de pouvoir entre les femmes et les hommes, ainsi que les obstacles qui affectent leur accès aux ressources, aux droits et aux décisions.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « genre et développement » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Genre et développement » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de genre et développement en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Sport et violence",
+      "intro": "Le sport peut favoriser la santé, l’éducation, la cohésion sociale et l’insertion des jeunes. Toutefois, la violence dans et autour des compétitions peut prendre des formes physiques, verbales, discriminatoires ou numériques. Elle résulte souvent d’un ensemble de facteurs : rivalités, organisation insuffisante, incitation à la haine, consommation d’alcool, enjeux financiers et faible confiance dans les institutions.",
+      "enjeux": "Les violences peuvent blesser les personnes, endommager les infrastructures, décourager les familles et ternir l’image du sport. Les réseaux sociaux accélèrent la diffusion de rumeurs et de provocations. La sécurité ne doit cependant pas être réduite à une réponse policière : l’éducation, la gouvernance des clubs et la qualité de l’accueil sont également déterminantes.",
+      "axes": [
+        [
+          "Prévenir en amont",
+          "Former les supporters, les éducateurs, les arbitres et les dirigeants aux règles, à la gestion des conflits et au respect de l’adversaire. Les campagnes doivent être continues et adaptées aux publics, pas limitées aux jours de match."
+        ],
+        [
+          "Organiser des événements sûrs",
+          "Évaluer les risques, gérer les entrées et sorties, séparer les flux si nécessaire, former les agents de sécurité et prévoir une coordination claire entre organisateurs, secours et forces de sécurité."
+        ],
+        [
+          "Responsabiliser les acteurs",
+          "Appliquer des sanctions proportionnées, transparentes et cohérentes contre les violences et les discours discriminatoires. Les clubs doivent disposer de procédures de signalement et coopérer avec les autorités."
+        ],
+        [
+          "Faire du sport un outil d’inclusion",
+          "Développer les activités de proximité, le sport scolaire et les programmes associant filles et garçons, personnes handicapées et jeunes de quartiers défavorisés. Des alternatives positives peuvent réduire les tensions."
+        ]
+      ],
+      "limites": "Des sanctions trop générales peuvent pénaliser les supporters pacifiques ou déplacer les violences hors des stades. La prévention doit respecter les droits fondamentaux et reposer sur des responsabilités clairement définies. Il faut aussi éviter d’assimiler tous les jeunes ou tous les supporters à des fauteurs de troubles.",
+      "cas": "Après des incidents lors d’un match, une réponse complète comprendrait une enquête indépendante, la prise en charge des blessés, l’analyse des failles d’organisation, des sanctions individualisées, un dialogue avec les associations de supporters et un plan de prévention pour les rencontres suivantes.",
+      "conclusion": "La lutte contre la violence sportive repose sur la prévention, une organisation professionnelle, la responsabilité des clubs et une application juste des règles. L’objectif est de protéger les personnes tout en préservant le sport comme espace de rencontre.",
+      "definitions": [
+        "Définition centrale : Le sport peut favoriser la santé, l’éducation, la cohésion sociale et l’insertion des jeunes.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « sport et violence » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Sport et violence » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de sport et violence en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Promotion du développement territorial",
+      "intro": "Le développement territorial vise à valoriser les ressources et les potentialités de chaque territoire, tout en réduisant les inégalités d’accès aux services, aux infrastructures et aux opportunités économiques. Il complète les politiques nationales en tenant compte des réalités locales, des dynamiques urbaines et rurales et des besoins exprimés par les populations.",
+      "enjeux": "La concentration des activités et des services dans certains pôles peut accentuer les écarts entre régions, villes et campagnes. Les difficultés concernent les routes, l’eau, l’assainissement, la santé, l’éducation, l’emploi, l’accès au numérique et la capacité des collectivités à financer leurs projets. Les territoires disposent pourtant de ressources agricoles, culturelles, minières, maritimes ou touristiques différentes.",
+      "axes": [
+        [
+          "Planifier à partir des besoins",
+          "Élaborer des diagnostics territoriaux avec données démographiques, économiques, sociales et environnementales. Les priorités doivent être discutées avec les habitants, les collectivités, les services déconcentrés et les acteurs économiques."
+        ],
+        [
+          "Renforcer les collectivités",
+          "Améliorer les compétences techniques, la mobilisation des recettes locales, la transparence budgétaire et la maintenance des équipements. Le transfert de responsabilités doit être accompagné de ressources et de capacités."
+        ],
+        [
+          "Connecter les territoires",
+          "Investir dans les routes, les transports, l’électricité, l’eau, les réseaux numériques et les équipements de stockage. Les infrastructures doivent relier les producteurs aux marchés et les habitants aux services."
+        ],
+        [
+          "Créer des économies locales",
+          "Soutenir les filières adaptées aux ressources du territoire, la formation professionnelle, les petites entreprises et les coopérations intercommunales. Les projets doivent être viables après la fin des subventions."
+        ]
+      ],
+      "limites": "Multiplier les projets sans coordination peut créer des équipements sous-utilisés ou des dépenses d’entretien insoutenables. La décentralisation peut aussi reproduire les inégalités si les collectivités les plus riches disposent de davantage de recettes. Des mécanismes de péréquation et des critères publics de choix sont nécessaires.",
+      "cas": "Un plan de développement territorial pour une zone agricole pourrait réunir piste rurale, marché, stockage, formation, accès à l’eau et transformation. L’évaluation mesurerait les temps de trajet, les pertes agricoles, les revenus, l’accès aux services et la participation des femmes et des jeunes.",
+      "conclusion": "Un développement territorial équilibré demande une planification cohérente, des collectivités capables et des projets adaptés aux réalités locales. La réussite se mesure à l’amélioration durable des conditions de vie.",
+      "definitions": [
+        "Définition centrale : Le développement territorial vise à valoriser les ressources et les potentialités de chaque territoire, tout en réduisant les inégalités d’accès aux services, aux infrastructures et aux opportunités économiques.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « promotion du développement territorial » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Promotion du développement territorial » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de promotion du développement territorial en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Promotion du consommer local",
+      "intro": "Le consommer local consiste à favoriser les biens et services produits ou transformés dans le pays, lorsqu’ils répondent aux exigences de qualité, de prix et de disponibilité. Il peut soutenir l’emploi, les entreprises nationales, les savoir-faire et la résilience économique. Il ne signifie pas qu’il faut rejeter systématiquement les produits importés, mais qu’il faut rendre l’offre locale compétitive et visible.",
+      "enjeux": "Les producteurs locaux peuvent rencontrer des difficultés de financement, d’équipements, de certification, d’emballage, de distribution et de promotion. Les consommateurs peuvent associer certains produits importés à une qualité supérieure ou à un statut social. La production locale doit donc gagner en fiabilité, en présentation et en régularité.",
+      "axes": [
+        [
+          "Améliorer la qualité",
+          "Accompagner les entreprises sur les normes, l’hygiène, la traçabilité, l’emballage et la conservation. Une marque locale crédible repose sur une qualité constante et sur la capacité à traiter les réclamations."
+        ],
+        [
+          "Faciliter l’accès au marché",
+          "Développer les circuits de distribution, les plateformes de vente, les foires professionnelles et les partenariats entre producteurs et commerces. La commande publique peut soutenir l’offre locale si les règles de concurrence et de transparence sont respectées."
+        ],
+        [
+          "Informer et mobiliser les consommateurs",
+          "Valoriser l’origine, les savoir-faire et l’impact sur l’emploi, sans diffuser d’informations trompeuses. Les campagnes doivent montrer concrètement la qualité et la diversité des produits."
+        ],
+        [
+          "Renforcer les entreprises",
+          "Faciliter le financement, la formation en gestion, la mutualisation des équipements et l’accès à l’énergie. Les petites entreprises ont besoin de soutien pour passer d’une production artisanale à une offre régulière."
+        ]
+      ],
+      "limites": "Le patriotisme économique ne doit pas servir de justification à des prix excessifs, à une qualité insuffisante ou à des protections permanentes. Les politiques doivent fixer des objectifs, des critères de performance et des échéances. Le consommateur doit garder le choix et bénéficier d’une concurrence saine.",
+      "cas": "Pour promouvoir les céréales locales, une stratégie pourrait réunir transformation adaptée aux habitudes alimentaires, emballages pratiques, présence dans les commerces, information nutritionnelle et contrats avec des cantines. Les indicateurs seraient les ventes, la satisfaction, la régularité d’approvisionnement et les revenus des producteurs.",
+      "conclusion": "Consommer local durablement suppose de proposer des produits compétitifs, sûrs et disponibles. L’État, les entreprises et les consommateurs ont des rôles complémentaires dans la construction de filières nationales solides.",
+      "definitions": [
+        "Définition centrale : Le consommer local consiste à favoriser les biens et services produits ou transformés dans le pays, lorsqu’ils répondent aux exigences de qualité, de prix et de disponibilité.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « promotion du consommer local » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Promotion du consommer local » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de promotion du consommer local en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Citoyenneté",
+      "intro": "La citoyenneté désigne l’appartenance à une communauté politique, avec des droits, des devoirs et une participation à la vie collective. Elle ne se limite pas à la nationalité ou au vote : elle implique le respect de la loi, la contribution à l’intérêt général, la connaissance des institutions et la capacité à demander des comptes aux responsables publics.",
+      "enjeux": "Les défis contemporains comprennent la défiance envers les institutions, la désinformation, les incivilités, la faible participation à certaines décisions locales et la polarisation des débats. La citoyenneté se construit aussi dans les services publics, l’école, les associations, les médias et les espaces numériques.",
+      "axes": [
+        [
+          "Renforcer l’éducation civique",
+          "Expliquer les institutions, les droits fondamentaux, les procédures démocratiques et les responsabilités des citoyens. L’apprentissage est plus efficace lorsqu’il repose sur des situations concrètes, des débats et des projets collectifs."
+        ],
+        [
+          "Améliorer la participation",
+          "Développer les consultations locales, les budgets participatifs lorsque les conditions le permettent, les mécanismes de plainte et l’accès à l’information publique. La participation doit avoir un effet visible pour préserver la confiance."
+        ],
+        [
+          "Promouvoir le respect du bien commun",
+          "Sensibiliser à la protection des biens publics, à la sécurité routière, à la propreté et à la prévention de la corruption. Les règles doivent être appliquées de façon équitable par les citoyens comme par les institutions."
+        ],
+        [
+          "Développer la citoyenneté numérique",
+          "Apprendre à vérifier les sources, protéger les données personnelles, respecter autrui en ligne et signaler les contenus dangereux. Les pouvoirs publics doivent communiquer clairement sans restreindre abusivement la liberté d’expression."
+        ]
+      ],
+      "limites": "Les campagnes de civisme perdent leur crédibilité si les services publics sont défaillants ou si les règles ne s’appliquent pas de la même manière à tous. La citoyenneté exige donc une relation réciproque : devoirs des citoyens, mais aussi respect des droits et exemplarité des institutions.",
+      "cas": "Une commune pourrait organiser des rencontres trimestrielles sur le budget et les projets, publier les décisions dans un langage accessible et suivre les plaintes avec des délais de réponse. Les indicateurs seraient la participation, la diversité des participants, les réponses apportées et la confiance mesurée.",
+      "conclusion": "Une citoyenneté vivante associe droits, responsabilités, esprit critique et participation. Elle se renforce lorsque les institutions sont transparentes, accessibles et dignes de confiance.",
+      "definitions": [
+        "Définition centrale : La citoyenneté désigne l’appartenance à une communauté politique, avec des droits, des devoirs et une participation à la vie collective.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « citoyenneté » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Citoyenneté » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de citoyenneté en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Gouvernance publique et performance",
+      "intro": "La gouvernance publique renvoie aux règles, institutions et pratiques par lesquelles les décisions collectives sont prises, exécutées et contrôlées. La performance publique ne se résume pas à réduire les dépenses : elle vise des résultats utiles, un service de qualité, l’équité, la transparence et une bonne utilisation des ressources.",
+      "enjeux": "Les administrations font face à des attentes croissantes, à des contraintes budgétaires et à des besoins de simplification. Les difficultés peuvent concerner les délais, la coordination entre services, la qualité des données, la reddition des comptes, la corruption ou la faible culture de l’évaluation.",
+      "axes": [
+        [
+          "Fixer des objectifs mesurables",
+          "Décliner les politiques en objectifs, résultats attendus, indicateurs et responsabilités. Un indicateur doit être pertinent, vérifiable et accompagné d’une cible réaliste. Compter les activités ne suffit pas à prouver leur impact."
+        ],
+        [
+          "Renforcer la transparence",
+          "Publier les budgets, marchés, critères d’attribution et résultats lorsque la loi le permet. Des audits et des mécanismes de contrôle indépendants aident à prévenir les irrégularités."
+        ],
+        [
+          "Améliorer les processus",
+          "Cartographier les démarches, supprimer les étapes inutiles, clarifier les responsabilités et numériser avec prudence. Une procédure digitale ne doit pas exclure les personnes sans équipement ou compétences numériques."
+        ],
+        [
+          "Développer les compétences et l’évaluation",
+          "Former les agents, valoriser le retour des usagers et examiner les résultats. L’évaluation doit servir à corriger les politiques, et non seulement à sanctionner les équipes."
+        ]
+      ],
+      "limites": "Des indicateurs mal conçus peuvent encourager les comportements de contournement : privilégier la quantité au détriment de la qualité ou sélectionner les dossiers faciles. La performance doit donc combiner plusieurs mesures, contrôle qualitatif et analyse des effets inattendus.",
+      "cas": "Pour réduire le délai d’obtention d’un document administratif, l’administration peut mesurer le délai initial, identifier les étapes bloquantes, clarifier les pièces exigées, suivre les dossiers et publier les délais réels. Les résultats doivent être ventilés par type de demande et par territoire.",
+      "conclusion": "Une administration performante associe objectifs clairs, moyens adaptés, transparence, compétences et évaluation. La confiance publique se construit par des résultats concrets et un traitement équitable des usagers.",
+      "definitions": [
+        "Définition centrale : La gouvernance publique renvoie aux règles, institutions et pratiques par lesquelles les décisions collectives sont prises, exécutées et contrôlées.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « gouvernance publique et performance » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Gouvernance publique et performance » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de gouvernance publique et performance en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Modernisation de l’Administration",
+      "intro": "La modernisation administrative consiste à adapter l’organisation, les procédures, les compétences et les outils de l’État aux besoins des citoyens et aux évolutions de la société. Elle vise une administration plus accessible, plus rapide, plus fiable et plus responsable, sans sacrifier la légalité, la continuité du service public ni l’égalité des usagers.",
+      "enjeux": "Les citoyens peuvent être confrontés à des démarches longues, à des déplacements coûteux, à des documents multiples ou à un manque d’information. L’administration doit aussi gérer la sécurité des données, la coordination des systèmes informatiques, le vieillissement de certaines méthodes de travail et les attentes de transparence.",
+      "axes": [
+        [
+          "Simplifier les procédures",
+          "Réexaminer les pièces demandées, les étapes et les délais. Le principe du « dites-le-nous une fois » peut éviter de demander plusieurs fois une information déjà détenue légalement par l’administration, sous réserve de protection des données."
+        ],
+        [
+          "Développer les services numériques",
+          "Mettre en place des démarches en ligne accessibles sur téléphone, des paiements sécurisés et un suivi de dossier. Prévoir des guichets d’assistance et des alternatives pour les usagers éloignés du numérique."
+        ],
+        [
+          "Professionnaliser les ressources humaines",
+          "Clarifier les fonctions, développer la formation continue, encourager la mobilité et évaluer les besoins en compétences. La conduite du changement doit associer les agents et tenir compte des résistances légitimes."
+        ],
+        [
+          "Renforcer l’interopérabilité et la sécurité",
+          "Permettre aux systèmes autorisés d’échanger des données fiables, sécuriser les accès, organiser les sauvegardes et définir les responsabilités en cas d’incident. La numérisation ne doit pas créer une dépendance incontrôlée à un prestataire."
+        ]
+      ],
+      "limites": "La transformation numérique peut reproduire les anciennes lourdeurs si les procédures ne sont pas repensées. Elle peut aussi exclure les personnes peu alphabétisées ou mal connectées. La modernisation doit donc être progressive, évaluée et centrée sur les besoins des usagers.",
+      "cas": "Pour moderniser une démarche d’état civil, il faudrait cartographier le parcours, définir des pièces stables, former les agents, sécuriser les registres, permettre le suivi des demandes et conserver une assistance en personne. Les indicateurs seraient le délai, le coût pour l’usager, le taux d’erreur et la satisfaction.",
+      "conclusion": "Moderniser l’administration, c’est améliorer le service rendu et la confiance. Les technologies ne sont qu’un moyen : la réussite dépend de la simplification, des agents, de la sécurité et de l’inclusion.",
+      "definitions": [
+        "Définition centrale : La modernisation administrative consiste à adapter l’organisation, les procédures, les compétences et les outils de l’État aux besoins des citoyens et aux évolutions de la société.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « modernisation de l’administration » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Modernisation de l’Administration » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de modernisation de l’administration en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Politique de l’emploi",
+      "intro": "Une politique de l’emploi rassemble les mesures qui facilitent la création d’emplois, l’accès au travail et l’adéquation entre compétences et besoins économiques. Elle combine politiques macroéconomiques, formation, soutien aux entreprises, services de placement, protection des travailleurs et accompagnement des transitions professionnelles.",
+      "enjeux": "Les jeunes peuvent rencontrer des difficultés d’accès au premier emploi, d’expérience, de formation adaptée et de financement de projets. Une part importante de l’activité se déroule dans l’informel, où les revenus et la protection sociale sont souvent instables. Le défi est de créer des emplois productifs et décents, pas seulement d’augmenter le nombre d’activités déclarées.",
+      "axes": [
+        [
+          "Stimuler les secteurs créateurs d’emplois",
+          "Identifier les filières ayant un potentiel réel : agriculture et transformation, construction, tourisme, économie numérique, industrie, services et énergies. Les aides doivent être liées à des résultats et à la viabilité des entreprises."
+        ],
+        [
+          "Relier formation et besoins",
+          "Associer employeurs, établissements de formation et services publics pour actualiser les programmes, développer l’apprentissage et reconnaître les compétences acquises par l’expérience. L’orientation doit présenter les débouchés réels."
+        ],
+        [
+          "Accompagner les chercheurs d’emploi",
+          "Proposer bilan de compétences, information sur les offres, préparation aux entretiens, stages de qualité et suivi après placement. Les services doivent être accessibles aux femmes, aux personnes handicapées et aux territoires éloignés."
+        ],
+        [
+          "Améliorer la qualité de l’emploi",
+          "Encourager la formalisation progressive, la sécurité au travail, la protection sociale et le dialogue social. Les dispositifs doivent éviter de rendre la création d’emplois formels trop coûteuse pour les petites entreprises."
+        ]
+      ],
+      "limites": "Les formations ne créent pas mécaniquement des emplois si la demande économique est insuffisante. Les aides à l’embauche peuvent subventionner des recrutements qui auraient eu lieu de toute façon. Une évaluation sérieuse doit mesurer les emplois nets, leur durée, leur rémunération et les effets sur les groupes ciblés.",
+      "cas": "Un programme d’insertion des jeunes pourrait commencer par une étude des besoins des entreprises, proposer des formations courtes certifiantes, organiser des stages encadrés et suivre les participants pendant douze mois. Les indicateurs incluraient le taux d’insertion, la stabilité, le salaire, la satisfaction des employeurs et l’accès des femmes.",
+      "conclusion": "Une politique efficace de l’emploi relie croissance, compétences et accompagnement. Elle doit privilégier les emplois durables et décents, avec des résultats vérifiés plutôt que des annonces fondées uniquement sur le nombre de bénéficiaires.",
+      "definitions": [
+        "Définition centrale : Une politique de l’emploi rassemble les mesures qui facilitent la création d’emplois, l’accès au travail et l’adéquation entre compétences et besoins économiques.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « politique de l’emploi » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Politique de l’emploi » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de politique de l’emploi en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "ONG et développement",
+      "intro": "Les organisations non gouvernementales interviennent dans des domaines variés : santé, éducation, environnement, droits humains, aide humanitaire, développement économique et renforcement communautaire. Elles peuvent atteindre des publics éloignés, mobiliser des compétences spécialisées et expérimenter des solutions, mais leur légitimité dépend de la transparence, de la redevabilité et de l’ancrage local.",
+      "enjeux": "Les ONG peuvent combler certaines lacunes, mais une dépendance excessive aux financements extérieurs expose les projets à des changements de priorités. Des interventions mal coordonnées risquent de créer des doublons, des services parallèles ou une faible appropriation locale. La relation avec l’État doit respecter les compétences publiques et l’autonomie associative.",
+      "axes": [
+        [
+          "Partir des besoins locaux",
+          "Réaliser un diagnostic participatif, consulter les groupes concernés et identifier les initiatives existantes. Les bénéficiaires doivent contribuer aux décisions, pas être considérés seulement comme des destinataires."
+        ],
+        [
+          "Renforcer la gouvernance",
+          "Définir des responsabilités, publier les financements et dépenses, prévenir les conflits d’intérêts et disposer de mécanismes de plainte. La protection des bénéficiaires, notamment des enfants et des personnes vulnérables, est essentielle."
+        ],
+        [
+          "Coordonner les interventions",
+          "Échanger avec les collectivités, services publics et autres partenaires pour éviter les doublons et assurer la continuité. Les accords doivent préciser les objectifs, les rôles, les données partagées et les modalités de sortie."
+        ],
+        [
+          "Mesurer et pérenniser les résultats",
+          "Évaluer les changements réels, renforcer les capacités locales et prévoir la maintenance ou le financement après la fin du projet. Les bonnes pratiques doivent être documentées et partagées."
+        ]
+      ],
+      "limites": "Le nombre de formations, de réunions ou de kits distribués ne prouve pas à lui seul un impact durable. Une ONG peut aussi imposer des priorités liées au bailleur plutôt qu’aux besoins. Les évaluations indépendantes et la participation communautaire réduisent ces risques.",
+      "cas": "Un projet d’accès à l’eau devrait associer les habitants au choix du site, clarifier la gestion et les tarifs, former un comité local, financer l’entretien et mesurer la disponibilité réelle de l’eau. La durabilité se juge après le retrait du financement initial.",
+      "conclusion": "Les ONG contribuent au développement lorsqu’elles complètent les politiques publiques, rendent des comptes et renforcent les capacités locales. La qualité de l’intervention se mesure à son utilité et à sa durabilité.",
+      "definitions": [
+        "Définition centrale : Les organisations non gouvernementales interviennent dans des domaines variés : santé, éducation, environnement, droits humains, aide humanitaire, développement économique et renforcement communautaire.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « ong et développement » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « ONG et développement » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de ong et développement en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Tourisme et développement",
+      "intro": "Le tourisme peut créer des emplois, générer des devises, valoriser le patrimoine et stimuler les transports, l’artisanat, la restauration et les services. Son apport dépend toutefois de la part des dépenses qui reste dans l’économie locale, de la qualité des emplois, de la protection des sites et de la capacité à répartir les bénéfices entre territoires.",
+      "enjeux": "Le secteur peut être fragilisé par les crises sanitaires, les tensions internationales, les problèmes de transport, la saisonnalité et la dégradation des sites. La pression sur le littoral, l’eau et les déchets peut aussi réduire l’attractivité. Les petites entreprises rencontrent parfois des difficultés d’accès au financement, au marketing numérique et aux normes de qualité.",
+      "axes": [
+        [
+          "Diversifier l’offre",
+          "Valoriser le patrimoine culturel, l’écotourisme, les événements, les circuits communautaires et les activités intérieures, en complément du tourisme balnéaire. La diversification doit respecter les communautés et éviter la folklorisation."
+        ],
+        [
+          "Améliorer l’accueil et la qualité",
+          "Former les professionnels, améliorer l’information, les transports, la sécurité, la signalétique et l’accessibilité. Les avis des visiteurs peuvent guider les améliorations, mais doivent être interprétés avec prudence."
+        ],
+        [
+          "Augmenter les retombées locales",
+          "Favoriser l’achat auprès des producteurs, artisans et prestataires locaux, soutenir les petites entreprises et améliorer les liens entre hôtels et filières agricoles. Les conditions de travail doivent être dignes et stables."
+        ],
+        [
+          "Protéger le patrimoine",
+          "Évaluer la capacité d’accueil des sites, gérer les déchets, économiser l’eau et associer les communautés à la conservation. Les recettes touristiques peuvent contribuer à l’entretien des sites."
+        ]
+      ],
+      "limites": "Une hausse du nombre de visiteurs peut augmenter les revenus mais aussi les nuisances, la spéculation foncière et la pression sur les ressources. Le succès doit être évalué par les dépenses locales, la qualité des emplois, la satisfaction des habitants et l’état des écosystèmes, pas uniquement par les arrivées.",
+      "cas": "Un circuit touristique communautaire peut combiner guides formés, hébergement adapté, artisanat, restauration locale, règles de protection culturelle et fonds d’entretien. Un suivi annuel mesure les revenus locaux, la durée des séjours, la satisfaction des habitants et l’impact environnemental.",
+      "conclusion": "Le tourisme devient un levier de développement lorsque la qualité, la durabilité et les retombées locales sont au cœur de la stratégie. La promotion doit s’accompagner d’investissements, de formation et de protection du patrimoine.",
+      "definitions": [
+        "Définition centrale : Le tourisme peut créer des emplois, générer des devises, valoriser le patrimoine et stimuler les transports, l’artisanat, la restauration et les services.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « tourisme et développement » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Tourisme et développement » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de tourisme et développement en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Industrialisation et emploi des jeunes",
+      "intro": "L’industrialisation transforme des matières premières en produits à plus forte valeur ajoutée, développe des compétences techniques et peut créer des emplois directs et indirects. Elle favorise la diversification économique et la réduction de certaines dépendances, à condition de disposer d’énergie fiable, d’infrastructures, de financement, de compétences et de débouchés.",
+      "enjeux": "Les jeunes peuvent manquer de formation technique, d’expérience pratique et de réseaux professionnels. Les entreprises industrielles peuvent être freinées par les coûts logistiques, l’accès au crédit, la taille limitée du marché et l’importation de certains intrants. Le défi consiste à créer des emplois productifs, sûrs et adaptés aux compétences disponibles.",
+      "axes": [
+        [
+          "Choisir des filières réalistes",
+          "Analyser les ressources, la demande, les coûts et les avantages potentiels dans l’agro-industrie, les matériaux, la réparation, la pharmacie, les énergies ou les services industriels. Les décisions doivent reposer sur des études de marché et non sur le prestige d’un secteur."
+        ],
+        [
+          "Améliorer l’environnement des entreprises",
+          "Sécuriser l’approvisionnement énergétique, simplifier les démarches, développer les zones industrielles et les infrastructures logistiques, et faciliter l’accès au financement. Les incitations doivent être transparentes et conditionnées à des résultats."
+        ],
+        [
+          "Former aux métiers",
+          "Construire des partenariats entre entreprises et centres de formation, développer l’apprentissage et les certifications pratiques, et mettre à jour les programmes selon les technologies. La sécurité et la qualité doivent être intégrées à la formation."
+        ],
+        [
+          "Favoriser les liens locaux",
+          "Encourager les fournisseurs nationaux, les services de maintenance, la recherche appliquée et les partenariats entre grandes entreprises et PME. La sous-traitance locale peut diffuser les compétences si les normes et les délais sont maîtrisés."
+        ]
+      ],
+      "limites": "Une usine ne garantit pas automatiquement un grand nombre d’emplois : l’automatisation, les importations d’intrants et les besoins en qualifications peuvent limiter les retombées. Les aides publiques doivent donc être évaluées selon les emplois nets, la productivité, la valeur ajoutée locale et les coûts environnementaux.",
+      "cas": "Une filière de transformation agricole pourrait relier producteurs, unités de transformation, emballage, laboratoires qualité, logistique et distribution. Des apprentissages en maintenance, contrôle qualité et gestion industrielle faciliteraient l’insertion des jeunes.",
+      "conclusion": "L’industrialisation doit être pensée comme un écosystème productif et de compétences. Elle crée des emplois durables lorsque les entreprises sont compétitives, les formations adaptées et les retombées locales mesurables.",
+      "definitions": [
+        "Définition centrale : L’industrialisation transforme des matières premières en produits à plus forte valeur ajoutée, développe des compétences techniques et peut créer des emplois directs et indirects.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « industrialisation et emploi des jeunes » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Industrialisation et emploi des jeunes » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de industrialisation et emploi des jeunes en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Responsabilité sociétale des entreprises",
+      "intro": "La responsabilité sociétale des entreprises (RSE) désigne la prise en compte des effets économiques, sociaux, environnementaux et éthiques des activités d’une organisation. Elle va au-delà du mécénat : elle concerne la manière de produire, d’employer, d’acheter, de traiter les clients et de dialoguer avec les communautés.",
+      "enjeux": "Les entreprises peuvent contribuer à l’emploi, à l’innovation et aux recettes publiques, mais leurs activités peuvent aussi entraîner pollution, risques professionnels, inégalités ou conflits avec les communautés. Les attentes de transparence augmentent, tandis que le risque de communication trompeuse sur les engagements environnementaux ou sociaux demeure.",
+      "axes": [
+        [
+          "Intégrer la RSE à la stratégie",
+          "Identifier les impacts les plus importants, fixer des objectifs mesurables et attribuer des responsabilités au sein de l’entreprise. Les engagements doivent être liés aux décisions d’investissement et aux pratiques quotidiennes."
+        ],
+        [
+          "Protéger les travailleurs et les droits",
+          "Améliorer la santé et la sécurité, prévenir les discriminations, respecter les droits des travailleurs et favoriser le dialogue social. Les fournisseurs doivent également être pris en compte dans la mesure des risques."
+        ],
+        [
+          "Réduire les impacts environnementaux",
+          "Mesurer la consommation d’énergie et d’eau, les émissions et les déchets, puis mettre en place des actions de réduction. La publication d’indicateurs comparables rend les progrès vérifiables."
+        ],
+        [
+          "Dialoguer avec les parties prenantes",
+          "Consulter les salariés, clients, fournisseurs, communautés et autorités. Les plaintes doivent recevoir une réponse et les engagements être suivis dans le temps."
+        ]
+      ],
+      "limites": "La RSE peut devenir une opération de communication si les indicateurs sont choisis uniquement pour valoriser l’entreprise. Les dons ponctuels ne compensent pas des pratiques nuisibles. Des objectifs vérifiables, des contrôles et une information équilibrée permettent de distinguer les engagements sérieux du simple affichage.",
+      "cas": "Une entreprise industrielle pourrait publier un bilan annuel sur les accidents, la formation, les achats locaux, la consommation d’eau et les déchets. Les objectifs seraient comparés à une situation de départ et vérifiés selon une méthode claire.",
+      "conclusion": "La RSE peut améliorer la confiance et la performance à long terme si elle est intégrée à la gouvernance. Elle suppose des engagements concrets, des résultats mesurables et un dialogue transparent avec les parties prenantes.",
+      "definitions": [
+        "Définition centrale : La responsabilité sociétale des entreprises (RSE) désigne la prise en compte des effets économiques, sociaux, environnementaux et éthiques des activités d’une organisation.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « responsabilité sociétale des entreprises » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Responsabilité sociétale des entreprises » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de responsabilité sociétale des entreprises en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Hydrocarbures et mines au Sénégal et dans le monde",
+      "intro": "Les hydrocarbures et les ressources minières représentent des sources potentielles de recettes publiques, d’exportations, d’énergie, d’emplois et d’industrialisation. Mais l’exploitation de ressources non renouvelables comporte des risques : volatilité des prix, dommages environnementaux, conflits fonciers, inégalités territoriales et dépendance excessive à un secteur.",
+      "enjeux": "Pour le Sénégal, les activités pétrolières, gazières et minières posent des questions de gouvernance des revenus, de transparence des contrats, de contenu local, de formation, de sécurité et de protection des communautés. À l’échelle mondiale, la transition énergétique modifie la demande, tandis que les minerais critiques deviennent stratégiques.",
+      "axes": [
+        [
+          "Garantir la transparence",
+          "Publier les règles, les contrats et les recettes dans le respect du cadre juridique, renforcer les audits et expliquer les choix budgétaires. Les revenus exceptionnels doivent être gérés avec prudence et selon des objectifs de long terme."
+        ],
+        [
+          "Créer de la valeur locale",
+          "Former la main-d’œuvre, développer les fournisseurs nationaux et étudier les possibilités de transformation locale économiquement viables. Les obligations de contenu local doivent être accompagnées de compétences, de qualité et de contrôles."
+        ],
+        [
+          "Protéger les personnes et l’environnement",
+          "Évaluer les impacts, prévenir les accidents, gérer l’eau et les déchets, réhabiliter les sites et consulter les communautés. Les mécanismes de réparation doivent être accessibles et suivis."
+        ],
+        [
+          "Préparer l’après-ressource",
+          "Éviter de financer des dépenses permanentes avec des revenus volatils, investir dans l’éducation, les infrastructures et la diversification, et anticiper les effets de la transition énergétique sur les emplois et les recettes."
+        ]
+      ],
+      "limites": "La rente peut favoriser le clientélisme ou la dépendance si les institutions sont faibles. La transformation locale n’est pas toujours rentable à court terme et doit être étudiée selon les coûts, les compétences et les marchés. Il faut aussi éviter de présenter les recettes attendues comme déjà disponibles.",
+      "cas": "Un mécanisme de suivi des revenus extractifs pourrait publier les recettes reçues, leur affectation budgétaire, les projets financés et les résultats territoriaux. Les données devraient être compréhensibles, contrôlées et accessibles aux citoyens.",
+      "conclusion": "Les ressources naturelles sont une opportunité, pas une garantie de développement. Leur contribution dépend de la transparence, de la protection environnementale, du partage équitable des bénéfices et de l’investissement dans une économie diversifiée.",
+      "definitions": [
+        "Définition centrale : Les hydrocarbures et les ressources minières représentent des sources potentielles de recettes publiques, d’exportations, d’énergie, d’emplois et d’industrialisation.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « hydrocarbures et mines au sénégal et dans le monde » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Hydrocarbures et mines au Sénégal et dans le monde » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de hydrocarbures et mines au sénégal et dans le monde en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Formation et employabilité",
+      "intro": "La formation renforce les connaissances et les compétences nécessaires pour accéder à un emploi, évoluer professionnellement ou créer une activité. L’employabilité dépend toutefois de plusieurs facteurs : compétences, expérience, information sur le marché, mobilité, santé, réseaux, conditions économiques et qualité des emplois disponibles.",
+      "enjeux": "Les décalages entre les programmes de formation et les besoins des entreprises peuvent produire des diplômes sans insertion rapide. Les jeunes ont parfois peu d’expérience pratique, tandis que les travailleurs doivent actualiser leurs compétences face aux changements technologiques. Les inégalités d’accès concernent les femmes, les personnes handicapées et les zones éloignées.",
+      "axes": [
+        [
+          "Partir des besoins du marché",
+          "Réaliser des enquêtes auprès des employeurs, suivre les secteurs en croissance et associer les professionnels à la conception des programmes. Les besoins doivent être réévalués régulièrement."
+        ],
+        [
+          "Renforcer la pratique",
+          "Développer les stages encadrés, l’apprentissage, les projets concrets et les équipements pédagogiques. Les périodes en entreprise doivent comporter des objectifs, un tuteur et une évaluation."
+        ],
+        [
+          "Accompagner l’insertion",
+          "Proposer orientation, bilan de compétences, préparation aux entretiens, techniques de recherche d’emploi et mise en relation avec les entreprises. L’accompagnement doit continuer après la formation."
+        ],
+        [
+          "Reconnaître les compétences",
+          "Mettre en place des certifications lisibles et valoriser les compétences acquises dans l’informel lorsque des évaluations fiables sont possibles. La formation continue permet de suivre les évolutions professionnelles."
+        ]
+      ],
+      "limites": "Le succès d’un programme ne doit pas être évalué uniquement par le nombre d’inscrits ou de diplômés. Il faut examiner le taux d’emploi, la qualité du poste, la stabilité, les revenus et la satisfaction des employeurs. Former sans débouchés peut décevoir les bénéficiaires et gaspiller des ressources.",
+      "cas": "Un parcours de formation en maintenance pourrait associer diagnostic des besoins des entreprises, modules pratiques, stage supervisé, certification et suivi d’insertion à six et douze mois. Les données permettraient d’ajuster les contenus et les capacités d’accueil.",
+      "conclusion": "L’employabilité se construit par une formation pertinente, une expérience pratique et un accompagnement vers les opportunités réelles. La coordination entre État, établissements, entreprises et apprenants est déterminante.",
+      "definitions": [
+        "Définition centrale : La formation renforce les connaissances et les compétences nécessaires pour accéder à un emploi, évoluer professionnellement ou créer une activité.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « formation et employabilité » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Formation et employabilité » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de formation et employabilité en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Enjeux sécuritaires",
+      "intro": "La sécurité recouvre la protection des personnes, des biens, des institutions et des infrastructures. Les enjeux contemporains sont multidimensionnels : sécurité des frontières, criminalité organisée, terrorisme, cybercriminalité, trafics, conflits locaux, catastrophes et sécurité des espaces numériques. Une réponse durable associe prévention, renseignement légal, justice, coopération et développement.",
+      "enjeux": "La région sahélienne connaît des menaces transfrontalières qui peuvent affecter les échanges, les déplacements et la cohésion sociale. Les risques évoluent rapidement et exploitent parfois la marginalisation, les conflits locaux et les fragilités institutionnelles. Les menaces numériques touchent aussi les administrations, les entreprises et les particuliers.",
+      "axes": [
+        [
+          "Améliorer la coordination",
+          "Partager les informations utiles entre services habilités, clarifier les chaînes de commandement et coopérer avec les pays voisins dans le respect du droit. Les réponses doivent éviter les doublons et les ruptures de responsabilité."
+        ],
+        [
+          "Renforcer la prévention",
+          "Investir dans la médiation locale, l’accès à la justice, l’éducation, les opportunités économiques et la confiance entre populations et institutions. La prévention ne remplace pas les opérations de sécurité, elle les complète."
+        ],
+        [
+          "Protéger les droits fondamentaux",
+          "Garantir la légalité des interventions, le contrôle des mesures coercitives, la formation des agents et les voies de recours. Une action sécuritaire injuste peut aggraver les tensions et affaiblir la coopération de la population."
+        ],
+        [
+          "Développer la résilience numérique",
+          "Former les agents, sécuriser les systèmes, sauvegarder les données, sensibiliser aux fraudes et préparer des plans de réponse aux incidents. Les infrastructures essentielles doivent faire l’objet d’une gestion des risques."
+        ]
+      ],
+      "limites": "Une stratégie uniquement répressive peut déplacer les menaces ou fragiliser la confiance. À l’inverse, la prévention seule ne suffit pas face à une menace immédiate. L’équilibre repose sur une analyse précise, des moyens proportionnés, une justice accessible et une évaluation continue.",
+      "cas": "Face à une hausse des escroqueries numériques, les autorités et opérateurs pourraient organiser une campagne de prévention, faciliter les signalements, former les enquêteurs, coopérer avec les plateformes et publier des alertes sans exposer les victimes. Les résultats seraient mesurés par les signalements traités et les pertes évitées.",
+      "conclusion": "La sécurité durable combine protection, prévention, coopération et respect du droit. Elle exige des institutions efficaces et une relation de confiance avec les populations.",
+      "definitions": [
+        "Définition centrale : La sécurité recouvre la protection des personnes, des biens, des institutions et des infrastructures.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « enjeux sécuritaires » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Enjeux sécuritaires » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de enjeux sécuritaires en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Questions migratoires",
+      "intro": "La migration désigne les déplacements de personnes à l’intérieur d’un pays ou au-delà des frontières, pour des motifs économiques, familiaux, éducatifs, sécuritaires ou environnementaux. Elle peut apporter des compétences, des revenus et des échanges culturels, mais aussi exposer les personnes à des risques et créer des défis de gouvernance.",
+      "enjeux": "Les départs irréguliers, les pertes humaines en mer, les réseaux de passeurs, les besoins de protection et les difficultés de réintégration sont des préoccupations importantes. Les transferts financiers de la diaspora soutiennent des ménages, mais leur effet sur l’investissement productif dépend de l’accès aux services financiers et des opportunités locales.",
+      "axes": [
+        [
+          "Créer des perspectives locales",
+          "Développer l’emploi décent, la formation, l’entrepreneuriat et l’accès au financement. Il faut éviter de présenter la migration comme un simple problème : elle peut être un choix légitime et une source de développement."
+        ],
+        [
+          "Sécuriser les parcours",
+          "Informer sur les voies régulières, lutter contre la traite et les passeurs, améliorer les mécanismes de secours et assurer la protection des personnes vulnérables. Les politiques doivent distinguer les situations migratoires et respecter les droits fondamentaux."
+        ],
+        [
+          "Mobiliser la diaspora",
+          "Faciliter les transferts, l’investissement, les échanges de compétences et les projets avec les territoires d’origine. Les dispositifs doivent être transparents et réduire les coûts et obstacles administratifs."
+        ],
+        [
+          "Organiser le retour et la réintégration",
+          "Proposer un accompagnement administratif, psychosocial et professionnel, avec une évaluation des compétences. La réintégration est plus durable lorsqu’elle s’appuie sur les besoins économiques locaux et le choix des personnes."
+        ]
+      ],
+      "limites": "Aucune politique ne peut supprimer les migrations uniquement par des campagnes de dissuasion si les causes économiques, familiales ou sécuritaires persistent. Les dispositifs de retour peuvent échouer sans emploi ni accompagnement. Les données migratoires doivent être utilisées avec prudence pour éviter les stéréotypes.",
+      "cas": "Un programme de réintégration pourrait associer bilan des compétences, formation courte, accompagnement à la création d’activité et mentorat. Le suivi porterait sur les revenus, la survie des activités, l’accès aux services et le bien-être, plutôt que sur le seul nombre de retours.",
+      "conclusion": "Une politique migratoire équilibrée protège les personnes, combat les réseaux criminels, crée des opportunités et valorise les liens avec la diaspora. Elle exige coopération internationale et respect des droits.",
+      "definitions": [
+        "Définition centrale : La migration désigne les déplacements de personnes à l’intérieur d’un pays ou au-delà des frontières, pour des motifs économiques, familiaux, éducatifs, sécuritaires ou environnementaux.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « questions migratoires » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Questions migratoires » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de questions migratoires en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Réseaux sociaux et utilisation",
+      "intro": "Les réseaux sociaux sont des espaces de communication, d’information, de mobilisation et d’activité économique. Ils permettent aux citoyens, entreprises et institutions de toucher rapidement un public large. Mais leur usage soulève des enjeux de désinformation, de harcèlement, de vie privée, de réputation, de polarisation et de sécurité des données.",
+      "enjeux": "La circulation rapide des contenus peut diffuser des rumeurs avant toute vérification. Les algorithmes privilégient parfois les contenus suscitant une forte réaction émotionnelle. Les citoyens peuvent partager des informations personnelles sans mesurer les conséquences, tandis que les entreprises et administrations doivent gérer leur présence numérique de façon responsable.",
+      "axes": [
+        [
+          "Développer l’esprit critique",
+          "Vérifier l’auteur, la date, la source originale, les preuves et les confirmations indépendantes. Une image ou une vidéo peut être sortie de son contexte. Il faut distinguer fait, opinion, satire et contenu publicitaire."
+        ],
+        [
+          "Protéger les personnes",
+          "Paramétrer la confidentialité, utiliser des mots de passe uniques et l’authentification à deux facteurs, limiter les données publiées et signaler le harcèlement. Les mineurs ont besoin d’un accompagnement adapté."
+        ],
+        [
+          "Responsabiliser les institutions",
+          "Communiquer rapidement et clairement, corriger les erreurs, protéger les données et prévoir des procédures en cas de crise. Les comptes officiels doivent distinguer l’information de service public de la communication partisane."
+        ],
+        [
+          "Exploiter les opportunités",
+          "Utiliser les plateformes pour l’éducation, le commerce, la participation citoyenne et l’accès aux services. Les campagnes doivent être accessibles, mesurables et ne pas exclure les personnes peu connectées."
+        ]
+      ],
+      "limites": "La lutte contre la désinformation ne doit pas devenir un prétexte à censurer toute critique. Les mesures doivent être transparentes, proportionnées et respectueuses de la liberté d’expression. Les règles de modération et les signalements peuvent aussi comporter des erreurs.",
+      "cas": "Lors d’une rumeur sur une crise publique, une institution devrait vérifier les faits, publier une réponse datée et sourcée, utiliser plusieurs canaux, répondre aux questions récurrentes et corriger publiquement toute erreur. L’efficacité se mesure par la portée de l’information fiable et l’évolution des fausses croyances.",
+      "conclusion": "Les réseaux sociaux sont des outils puissants dont les effets dépendent des usages, des compétences et des règles. L’éducation numérique, la transparence et la protection des droits sont essentielles.",
+      "definitions": [
+        "Définition centrale : Les réseaux sociaux sont des espaces de communication, d’information, de mobilisation et d’activité économique.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « réseaux sociaux et utilisation » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Réseaux sociaux et utilisation » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de réseaux sociaux et utilisation en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    },
+    {
+      "title": "Laïcité",
+      "intro": "La laïcité organise les relations entre les pouvoirs publics et les convictions religieuses ou philosophiques. Dans son sens institutionnel, elle vise à garantir la liberté de conscience, l’égalité des citoyens et la neutralité de l’État dans l’exercice de ses fonctions. Elle ne signifie pas nécessairement l’effacement des religions de la société : elle encadre l’action publique pour que chacun puisse exercer ses droits sans discrimination.",
+      "enjeux": "Dans une société pluraliste, les institutions doivent concilier liberté de religion, liberté de ne pas croire, égalité devant la loi, ordre public et neutralité du service public. Les débats peuvent porter sur les signes religieux, l’éducation, les lieux de travail, les soins ou les règles communes. Le cadre juridique et l’histoire de chaque pays sont déterminants.",
+      "axes": [
+        [
+          "Protéger la liberté de conscience",
+          "Permettre à chacun d’avoir, de changer ou de ne pas avoir de conviction, dans les limites prévues par la loi et nécessaires à la protection des droits d’autrui. Les restrictions doivent être justifiées, précises et proportionnées."
+        ],
+        [
+          "Garantir la neutralité institutionnelle",
+          "Les agents publics doivent exercer leurs fonctions sans favoritisme religieux ou idéologique et traiter les usagers de façon égale. La neutralité de l’institution ne signifie pas que les citoyens doivent abandonner leurs convictions personnelles."
+        ],
+        [
+          "Prévenir les discriminations",
+          "Former les responsables, clarifier les procédures et permettre le recours en cas de traitement inégal. Les décisions doivent s’appuyer sur des règles connues, et non sur des suppositions concernant les convictions d’une personne."
+        ],
+        [
+          "Favoriser le dialogue civique",
+          "Promouvoir la connaissance du droit, l’éducation au pluralisme et la résolution pacifique des différends. Le dialogue peut prévenir les tensions tout en maintenant la primauté des règles communes."
+        ]
+      ],
+      "limites": "Les débats sur la laïcité deviennent confus lorsque le principe est utilisé comme synonyme d’hostilité à la religion ou, inversement, lorsque la liberté de conviction est invoquée pour écarter toutes les règles communes. Les réponses doivent être contextualisées juridiquement et respecter les libertés fondamentales.",
+      "cas": "Dans un service public confronté à une demande liée à une conviction, l’administration devrait identifier le texte applicable, vérifier les exigences du service, appliquer une règle cohérente et expliquer la décision. En cas d’incertitude, un avis juridique permet d’éviter l’arbitraire.",
+      "conclusion": "La laïcité doit être comprise à partir du droit applicable et de l’objectif d’égalité. Une administration impartiale protège la liberté de conscience tout en assurant le fonctionnement du service public.",
+      "definitions": [
+        "Définition centrale : La laïcité organise les relations entre les pouvoirs publics et les convictions religieuses ou philosophiques.",
+        "Diagnostic : identifier les causes structurelles, les acteurs, les territoires concernés et les groupes les plus exposés.",
+        "Action publique : combiner prévention, réglementation, financement, services, partenariats et contrôle.",
+        "Évaluation : distinguer les moyens mobilisés, les réalisations, les effets sur les bénéficiaires et les impacts à long terme."
+      ],
+      "dissertation": {
+        "problematique": "Comment faire de « laïcité » un levier de développement durable et inclusif au Sénégal, malgré les contraintes de mise en œuvre ?",
+        "plan": [
+          {
+            "part": "I. Un enjeu stratégique pour le développement",
+            "points": [
+              "Définir le concept et montrer son importance économique, sociale ou institutionnelle.",
+              "Présenter le diagnostic national, les acteurs concernés et les opportunités.",
+              "Expliquer les effets d’une politique efficace sur les citoyens et les territoires."
+            ]
+          },
+          {
+            "part": "II. Des contraintes qui exigent une action publique cohérente",
+            "points": [
+              "Analyser les obstacles financiers, techniques, institutionnels et sociaux.",
+              "Proposer des mesures réalistes, coordonnées et adaptées aux territoires.",
+              "Prévoir une gouvernance transparente, des indicateurs et une évaluation périodique."
+            ]
+          }
+        ],
+        "method": "Dans l’introduction, partir d’un constat ou d’une définition, délimiter le sujet, montrer l’intérêt, poser une problématique claire et annoncer le plan. Chaque paragraphe développe une idée, l’explique, l’illustre par un exemple et fait le lien avec la problématique. La conclusion répond directement à la question et ouvre sur une perspective concrète."
+      },
+      "qcm": [
+        {
+          "q": "Quel est le meilleur point de départ pour une politique publique sur le thème « Laïcité » ?",
+          "options": [
+            "Un diagnostic fondé sur des données et la consultation des acteurs",
+            "Une annonce sans étude préalable",
+            "La multiplication des indicateurs sans objectif",
+            "La suppression de toute évaluation"
+          ],
+          "answer": 0,
+          "why": "Le diagnostic permet de hiérarchiser les besoins, d’identifier les causes et de choisir des mesures adaptées."
+        },
+        {
+          "q": "Quel indicateur permet le mieux d’apprécier un résultat public ?",
+          "options": [
+            "Le nombre de réunions organisées uniquement",
+            "Un changement vérifiable chez les bénéficiaires, comparé à une situation de départ",
+            "Le montant dépensé sans analyse",
+            "Le nombre de pages d’un rapport"
+          ],
+          "answer": 1,
+          "why": "Un indicateur de résultat mesure un changement utile, et pas seulement une activité ou une dépense."
+        },
+        {
+          "q": "Quelle pratique améliore la redevabilité ?",
+          "options": [
+            "Garder les critères secrets",
+            "Publier les objectifs, les résultats et les limites de l’action",
+            "Éviter les retours des usagers",
+            "Changer les objectifs après chaque bilan"
+          ],
+          "answer": 1,
+          "why": "La transparence permet le contrôle citoyen et l’apprentissage institutionnel."
+        },
+        {
+          "q": "Pourquoi faut-il associer les acteurs locaux ?",
+          "options": [
+            "Pour transférer toute la responsabilité sans moyens",
+            "Pour mieux adapter les actions aux réalités et renforcer leur appropriation",
+            "Pour éviter les données nationales",
+            "Pour remplacer le cadre légal"
+          ],
+          "answer": 1,
+          "why": "La participation améliore la pertinence et la durabilité, sans remplacer les obligations de l’État."
+        }
+      ],
+      "revision": [
+        "Explique le concept de laïcité en 5 lignes.",
+        "Cite trois enjeux majeurs pour le Sénégal et explique leurs causes.",
+        "Propose trois mesures publiques réalistes et indique un risque pour chacune.",
+        "Donne deux indicateurs de résultat et explique comment les mesurer.",
+        "Construis une introduction de dissertation avec problématique et annonce du plan."
+      ]
+    }
+  ]
+}
